@@ -3,4 +3,3 @@
 ## Project setup
 ```
 npm install
-Пример работы 
